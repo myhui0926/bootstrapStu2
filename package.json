@@ -1,0 +1,21 @@
+{
+  "name": "bootstrapstu2",
+  "version": "1.0.0",
+  "description": "Study bootstrap from imooc",
+  "main": "gulpfile.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "sg"
+  },
+  "author": "SongChaoHui",
+  "license": "ISC",
+  "devDependencies": {
+    "graceful-fs": "^4.1.11",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-less": "^3.3.2",
+    "minimatch": "^3.0.4"
+  }
+}
